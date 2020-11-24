@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4275
   title: བློ་སྦྱོང་དང་ཞལ་གདམས་ཉེར་མཁོ་ཕྱོགས་བསྒྲིགས།
-  volume: ''
+  volume:
+    7d6220f4753a45468792dc95b95b6eff:
+      image_group_id: I3CN4296
+      title: Volume 1 of blo sbyong dang zhal gdams nyer mkho phyogs bsgrigs/
+      volume_number: 1
+      total_pages: 368
   author: ''
+ebook_metadata:
+  title: བློ་སྦྱོང་དང་ཞལ་གདམས་ཉེར་མཁོ་ཕྱོགས་བསྒྲིགས།
+  author: ''
+  sku: P008033
+  cover: cover.jpg
+  layers:
+  - pagination
