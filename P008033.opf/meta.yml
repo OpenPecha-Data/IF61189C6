@@ -1,5 +1,7 @@
 id: P008033
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W3CN4275
   title: བློ་སྦྱོང་དང་ཞལ་གདམས་ཉེར་མཁོ་ཕྱོགས་བསྒྲིགས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 368
       base_file: v001.txt
-ebook_metadata:
-  title: བློ་སྦྱོང་དང་ཞལ་གདམས་ཉེར་མཁོ་ཕྱོགས་བསྒྲིགས།
-  author: ''
-  sku: P008033
-  cover: cover.jpg
-  layers:
-  - pagination
